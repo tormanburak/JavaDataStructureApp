@@ -1,0 +1,9 @@
+1-)From the data collected for the three-while loop algorithm, it seems that each time the file
+size gets incremented, the time it takes to analyze also increases, it looks like it has a O(n)
+
+2-) From the data collected for the one-while loop algorithm, it seems that each time the file
+size gets incremented, the time it takes to analyze also increases but it is significantly 
+lower than the three while loop, it looks like it has a O(logn).
+
+conclusion-
+One while-loop algorithm is more efficent than three-while loop algortihm.
